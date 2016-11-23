@@ -2,7 +2,7 @@
 syntax enable
 
 " Set Colorscheme
-colorscheme elflord
+colorscheme molokai
 
 " Number of visual spaces per tab
 set tabstop=4
