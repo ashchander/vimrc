@@ -14,7 +14,7 @@ set softtabstop=4
 set expandtab
 
 " Show line numbers
-"set number
+set number
 
 " Highlight cursor line
 set cursorline
